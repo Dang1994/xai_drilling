@@ -11,7 +11,7 @@ report.txt
 *.txt
 
 # Ignore all CSV files inside a specific folder
-data/*.csv
+
 
 # Ignore all log files inside a specific folder but track `important.log`
 logs/report.log
